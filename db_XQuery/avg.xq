@@ -1,0 +1,1 @@
+avg(doc('menu.xml')//price)

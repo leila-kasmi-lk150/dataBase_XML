@@ -1,0 +1,17 @@
+<menu>
+  <item id="1">
+    <name>Hamburger</name>
+    <price>500</price>
+    <description>A juicy beef patty on a toasted bun with lettuce, tomato, and onion.</description>
+  </item>
+  <item id="2">
+    <name>Cheeseburger</name>
+    <price>600</price>
+    <description>A juicy beef patty with melted cheese on a toasted bun with lettuce, tomato, and onion.</description>
+  </item>
+  <item id="3">
+    <name> Fries</name>
+    <price>300</price>
+    <description>Crispy golden fries.</description>
+  </item>
+</menu>
